@@ -4,4 +4,4 @@
 
 1. 내가 이해한 XCode 단축키 
 - Shift + Enter : 커서가 있는 곳에서 코드 실행 
-- 
+- option + Enter : insert all parameters. 
